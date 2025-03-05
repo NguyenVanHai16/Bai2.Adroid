@@ -1,5 +1,4 @@
 # thongbao
-# Bài tập Demo API cho Android
 
 ## Mô tả
 Ứng dụng Android sử dụng timer 30s để lấy dữ liệu từ API tại `http://10.0.2.2:5000/last_id` và hiển thị thông báo khi có tin nhắn mới.
